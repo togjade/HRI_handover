@@ -1,0 +1,12 @@
+
+<launch>
+	<node name="takktile" 
+	pkg="takktile_ros" 
+	type="takktile_node.py" />
+	
+	<node pkg="imu_files" 
+	name="lump_with_press_2_csv" 
+	type="lump_with_press_2_csv.py"
+	output = "screen" /> 
+
+
