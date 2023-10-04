@@ -3,8 +3,7 @@
 A. Mazhitov, T. Syrymova, Z. Kappassov, and M. Rubagotti, “Human–robot handover with prior-to-pass soft/rigid object classification via tactile glove,” Robotics and Autonomous Systems, vol. 159, p. 104311, Jan. 2023, doi: 10.1016/j.robot.2022.104311. (The first two authors contributed equally)
 
 ## Bibtex
-
-@article{mazhitov_humanrobot_2023,
+	@article{mazhitov_humanrobot_2023,
 	title = {Human–robot handover with prior-to-pass soft/rigid object classification via tactile glove},
 	volume = {159},
 	issn = {0921-8890},
